@@ -20,18 +20,6 @@ This repository contains the implementation of **MaxGlaViT**, a lightweight Visi
 - **Assist. Prof. Dr. Mustafa Yurdakul**  
 - **Mustafa Yurdakul (PhD Candidate)**  
 
-
-
-
-$Key Features
-ConvNeXtV2 Integration: Advanced convolutional blocks replace traditional MBConv structures in MaxViT blocks.
-Efficient Channel Attention (ECA): Integrated in the stem block for improved feature emphasis.
-Optimized Design: Scaled MaxViT architecture reduces complexity while maintaining robust performance.
-# Dependencies
-** Python 3.x
-** TensorFlow/Keras
-** [keras_cv_attention_models]([https://www.google.com](https://github.com/0723sjp/keras_cv_attention_models/tree/main))
-
  ## Contact  
 For any questions or issues, please feel free to contact:  
 - **Şakir Taşdemir**: [stasdemir@selcuk.edu.tr](mailto:stasdemir@selcuk.edu.tr)  
