@@ -20,11 +20,7 @@ This repository contains the implementation of **MaxGlaViT**, a lightweight Visi
 - **Assist. Prof. Dr. Mustafa Yurdakul**  
 - **Mustafa Yurdakul (PhD Candidate)**  
 
-## Contact  
-For any questions or issues, please feel free to contact:  
-- **Şakir Taşdemir**: [stasdemir@selcuk.edu.tr](mailto:stasdemir@selcuk.edu.tr)  
-- **Kübra Uyar**: [kubra.uyar@alanya.edu.tr](mailto:kubra.uyar@alanya.edu.tr)  
-- **Mustafa Yurdakul**: [mustafa.yurdakul@kku.edu.tr](mailto:mustafa.yurdakul@kku.edu.tr)  
+
 
 
 $Key Features
@@ -32,15 +28,12 @@ ConvNeXtV2 Integration: Advanced convolutional blocks replace traditional MBConv
 Efficient Channel Attention (ECA): Integrated in the stem block for improved feature emphasis.
 Optimized Design: Scaled MaxViT architecture reduces complexity while maintaining robust performance.
 # Dependencies
-Python 3.x
-TensorFlow/Keras
-[keras_cv_attention_models]([https://www.google.com](https://github.com/0723sjp/keras_cv_attention_models/tree/main))
+** Python 3.x
+** TensorFlow/Keras
+** [keras_cv_attention_models]([https://www.google.com](https://github.com/0723sjp/keras_cv_attention_models/tree/main))
 
-# The Authors:
-Full Professor Dr. Şakir Taşdemir
-Assistant Professor Dr. Mustafa Yurdakul
-PhD. Candidate Mustafa Yurdakul
-
-# Contact
-For any questions or issues, please feel free to contact Şakir Taşdemir (stasdemir@selcuk.edu.tr), Kübra Uyar (kubra.uyar@alanya.edu.tr) or Mustafa Yurdakul (mustafa.yurdakul@kku.edu.tr).
-Feel free to adjust it based on your specific needs!
+ ## Contact  
+For any questions or issues, please feel free to contact:  
+- **Şakir Taşdemir**: [stasdemir@selcuk.edu.tr](mailto:stasdemir@selcuk.edu.tr)  
+- **Kübra Uyar**: [kubra.uyar@alanya.edu.tr](mailto:kubra.uyar@alanya.edu.tr)  
+- **Mustafa Yurdakul**: [mustafa.yurdakul@kku.edu.tr](mailto:mustafa.yurdakul@kku.edu.tr)  
