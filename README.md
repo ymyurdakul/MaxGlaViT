@@ -1,5 +1,7 @@
 # MaxGlaViT
 ![Capture](https://github.com/user-attachments/assets/48e9dc4b-85b8-495d-9fd3-fa06bff89f28)
+
+
 MaxGlaViT: A Lightweight Vision Transformer for Glaucoma Stage Diagnosis
 This repository contains the implementation of MaxGlaViT, a lightweight Vision Transformer designed for glaucoma stage classification. The model incorporates advanced deep learning components for enhanced performance and efficiency.
 
