@@ -16,7 +16,7 @@ This repository contains the implementation of **MaxGlaViT**, a lightweight Visi
 - [keras_cv_attention_models](https://github.com/0723sjp/keras_cv_attention_models/tree/main)  
 
 ## Authors  
-- **Full Prof. Dr. Şakir Taşdemir**  
+- **Prof. Dr. Şakir Taşdemir**  
 - **Assist. Prof. Dr. Kübra Uyar**  
 - **Mustafa Yurdakul (PhD Candidate)**  
 
