@@ -1,5 +1,9 @@
-## 🔍 Overview
+ 
+
+
+# 🌟 MaxGlaViT: A Lightweight Vision Transformer for Glaucoma Stage Diagnosis
 ![Capture](https://github.com/user-attachments/assets/48e9dc4b-85b8-495d-9fd3-fa06bff89f28)
+## 🔍 Overview
 
 **MaxGlaViT** is an advanced lightweight Vision Transformer model tailored for the early diagnosis of glaucoma stages from fundus images. Leveraging state-of-the-art attention mechanisms and convolutional modules, MaxGlaViT achieves unprecedented accuracy and efficiency.
 
@@ -118,4 +122,5 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 ## 🤝 Acknowledgments
 
 Special thanks to the contributors of the HDV1 dataset and the deep learning research community.
+
 
